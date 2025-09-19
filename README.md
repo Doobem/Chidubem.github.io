@@ -19,11 +19,11 @@ Cybersecurity Essentials <br>
 
 #### Senior BI Data Analyst
 S.Obiugo, Nigeria <br>
-September 2024 – Present   <br>
-•	Participate in requirements meetings and data mapping sessions to understand business needs.
-•	Creating bespoke reports according to requests, presenting clear, informative data insights.
-•	Implementing data workflows to streamline automated Power BI and Databricks input.
-•	Coaching and mentoring junior analysts in data mining best practices, uplifting team capabilities. <br>
+September 2024 – August 2025   <br>
+•	Participated in requirements meetings and data mapping sessions to understand business needs.
+•	Created bespoke reports according to requests, presenting clear, informative data insights.
+•	Implemented data workflows to streamline automated Power BI and Databricks input.
+•	Coached and mentored junior analysts in data mining best practices, uplifting team capabilities. <br>
 
 
 #### Shift Supervisor

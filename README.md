@@ -12,6 +12,7 @@ Google Analytics for Beginners <br>
 Cybersecurity Essentials <br>
 
 ### Education
+- MSc., Artificial Intelligence for Business | National College of Ireland (Presesnt). <br>
 - MSc., Information Technology Management | Cardiff Metropolitan University (November,2022).  <br>
 - BSc., Computer Science | Madonna University, Nigeria ( August, 2018).<br>
 
